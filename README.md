@@ -1,5 +1,7 @@
 # Estefannie Explains It All
 
+*Notice! I had to re-do my repo and deleted the old one. I am so sorry to everyone who had forked :( 
+
 ## Table of Contents
 
 - [Makes](makes/)
@@ -34,4 +36,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[View Copyright](LICENSE)
+[View Copyright](Copyright.md)
