@@ -4,20 +4,25 @@
 
 ## Table of Contents
 
-- [Makes](makes/)
-   - [BB Cake](makes/bbCake/)
-   - [Daft Punk Helmet](makes/DaftPunkHelmet)
-   - [Ginger Bread House](makes/GingerbreadHouse/)
-   - [Internet Button Controlled Automated French Press](makes/InternetButtonControlledAutomatedFrenchPress/)
-   - [Jurassic Park Goggles](makes/JurassicGoggles)
+- [Builds](builds/)   
+   - [Automated French Press](builds/automated_french_press/)
+   - [Cookie Jar Security System with Lasers](builds/cookie_jar_security_lasers/)
+   - [Daft Punk Helmet](builds/daft_punk_helmet)   
+   - [GPS Geolocation Selfie System](builds/gps_geolocation_selfie_system/)
+   - [Jurassic Park Goggles](builds/jurassic_goggles)
+   - [On Air Sign](builds/on_air_sign_conductive_paint/)
+   - [Santa Claus Cookie Alarm](builds/santa_claus_cookie_alarm/)
+   - [SCR4P-E The Robot](builds/scr4pe_the_robot/)
+   - [Smart Gingerbread House](builds/smart_gingerbread_house/)
    
-   - [Pumpkin Droid](makes/pumpkinDroid/)
-   - [Raspberry Pi Collaboration](makes/RaspberryPiCollab/)
-   - [Raspberry Pi GPS GoPro](makes/RaspberryPiGpsGoPro/)
-   - [Smart Conductive On Air Sign](makes/SmartConductiveOnAirSign/)
-   - [Smart Cookie Alarm](makes/SmartCookieAlarm/)
-   - [Stranger Things](makes/StrangerThings/)
+   - Quick builds:
+      - [Pokeball](builds/pokeball)
+      - [Stranger Things Wall](builds/stranger_things_wall_lights/)
+      - [BB8 Cake](builds/bb8_cake/)
+      - [BB8 Pumpkin](builds/bb8_pumpkin/)
+   
 - [Tutorials](tutorials/)
+
    - [Big O Notation](tutorials/bigOnotation/)
       - [Part 2](tutorials/bigOnotation/part2)
       - [Part 3](tutorials/bigOnotation/part3)
