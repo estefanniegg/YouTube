@@ -1,0 +1,86 @@
+<!--
+/* SMART GINGERBREAD HOUSE
+ *  
+ * Have fun =)
+ *
+ * This file is part of the Estefannie Explains It All repo.
+ *
+ * (c) Estefannie Explains It All <estefannieexplainsitall@gmail.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */-->
+<html>
+<head>
+<title>Project</title>
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+</head>
+<body>
+<div class="container">
+	<h1 align="center">Smart Gingerbread House</h1>
+	</br>
+	<div class="jumbotron">
+			<div align="center">
+				<font size="6">
+	 				<label>Christmas Lights</label>
+	 				</br>
+					<div class="btn-group btn-group-justified">
+	  				<!-- This part is a a link, which also sends a request to the php-document,
+					telling it to write 1 or 0 to LEDstate.txt -->
+	  					<a href="led.php?state=1" class="btn btn-success">On</a>
+	  					<a href="led.php?state=0" class="btn btn-danger">Off</a>
+					</div>
+					</br>
+					<label>Front Door</label>
+	 				</br>
+					<div class="btn-group btn-group-justified">
+	  				<!-- This part is a a link, which also sends a request to the php-document,
+					telling it to write 1 or 0 to LEDstate.txt -->
+	  					<a href="door.php?state=1" class="btn btn-success">Open</a>
+	  					<a href="door.php?state=0" class="btn btn-danger">Close</a>
+					</div>
+					</br>
+					<label>House Lights</label>
+	 				</br>
+					<div class="btn-group btn-group-justified">
+	  				<!-- This part is a a link, which also sends a request to the php-document,
+					telling it to write 1 or 0 to LEDstate.txt -->
+	  					<a href="indoorLed.php?state=1" class="btn btn-success">On</a>
+	  					<a href="indoorLed.php?state=0" class="btn btn-danger">Off</a>
+					</div>					
+					</br>
+					<label>Music</label>
+	 				</br>
+					<div class="btn-group btn-group-justified">
+	  				<!-- This part is a a link, which also sends a request to the php-document,
+					telling it to write 1 or 0 to LEDstate.txt -->
+	  					<a href="sound.php?state=1" class="btn btn-success">Play</a>
+	  					<a href="sound.php?state=0" class="btn btn-danger">Off</a>
+					</div>
+					</br>
+					<label>Gingerbread People</label>
+	 				</br>
+					<div class="btn-group btn-group-justified">
+	  				<!-- This part is a a link, which also sends a request to the php-document,
+					telling it to write 1 or 0 to LEDstate.txt -->
+	  					<a href="gingerbreadMen.php?state=1" class="btn btn-success">On</a>
+	  					<a href="gingerbreadMen.php?state=0" class="btn btn-danger">Off</a>
+					</div>
+					</br>
+					<label>Everything!</label>
+	 				</br>
+					<div class="btn-group btn-group-justified">
+	  				<!-- This part is a a link, which also sends a request to the php-document,
+					telling it to write 1 or 0 to LEDstate.txt -->
+	  					<a href="all.php?state=1" class="btn btn-success">On</a>
+	  					<a href="all.php?state=0" class="btn btn-danger">Off</a>
+					</div>
+				</font>
+		    </div>
+		</div>
+	</div>
+	<div id="snow" style="z-index: -1">
+	</div>
+</body>
+</html>
