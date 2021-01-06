@@ -15,9 +15,9 @@ Before contributing please take a look at the [FAQ](FAQ.md) guide.
 
 ## 1.1. Current projects
 
-Current projects can be found in both [hacks](hacks/) and [tutorial](tutorials/) sections of this repository. Contributions in the form of fixes and improvements are welcome; however, must first be tested and proven to work.
+Current projects can be found in both [build](builds/) and [tutorial](tutorials/) sections of this repository. Contributions in the form of fixes and improvements are welcome; however, must first be tested and proven to work.
 
-Simply [fork the repository](https://help.github.com/articles/fork-a-repo/), make your changes, and send a [pull request](https://help.github.com/articles/about-pull-requests/) for approval.
+Simply [fork the repository](https://help.github.com/articles/fork-a-repo/), make your changes, and send a [pull request](https://help.github.com/articles/about-pull-requests/) for approval. Estefannie promises to actually look at pull requests this time :)
 
 # 2. Reporting Bugs
 
