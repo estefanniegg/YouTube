@@ -31,7 +31,6 @@
 
 ## To-Do
 
-- Contribution Guidelines
 - FAQ
 - Social/Resources
 
