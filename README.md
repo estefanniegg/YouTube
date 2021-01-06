@@ -34,4 +34,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[View Copyright](LICENSE)
+[View Copyright](Copyright.md)
