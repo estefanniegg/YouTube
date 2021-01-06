@@ -1,5 +1,7 @@
 # Estefannie Explains It All
 
+*Notice! I had to re-do my repo and deleted the old one. I am so sorry to everyone who had forked :( 
+
 ## Table of Contents
 
 - [Makes](makes/)
