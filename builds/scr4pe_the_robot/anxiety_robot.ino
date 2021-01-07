@@ -10,7 +10,11 @@
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
-/**************************************** DATE STUFF**********************/
+ 
+/**************************************** DATE STUFF**********************
+for more RTC stuff read https://learn.adafruit.com/adafruit-pcf8523-real-time-clock/rtc-with-arduino
+for more  TM1637 read https://www.makerguides.com/tm1637-arduino-tutorial/ */
+
 #include <TM1637Display.h>
 #include "RTClib.h"
 // Define the connections pins for display:
@@ -25,7 +29,7 @@ int armageddonDay = 31;
 int armageddonYear = 2020;
 int armageddon = 0;
 
-///**************************************** MOTORs STUFF**********************/
+/**************************************** MOTORs STUFF**********************/
 #include <Servo.h>
 Servo servo1;
 Servo servo2; 
