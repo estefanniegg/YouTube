@@ -5,21 +5,28 @@
 ## Table of Contents
 
 - [Builds](builds/)   
-   - [Automated French Press](builds/automated_french_press/)
-   - [Cookie Jar Security System with Lasers](builds/cookie_jar_security_lasers/)
-   - [Daft Punk Helmet](builds/daft_punk_helmet)   
-   - [GPS Geolocation Selfie System](builds/gps_geolocation_selfie_system/)
-   - [Jurassic Park Goggles](builds/jurassic_goggles)
-   - [On Air Sign](builds/on_air_sign_conductive_paint/)
-   - [Santa Claus Cookie Alarm](builds/santa_claus_cookie_alarm/)
-   - [SCR4P-E The Robot](builds/scr4pe_the_robot/)
-   - [Smart Gingerbread House](builds/smart_gingerbread_house/)
-   
-   - Quick builds:
-      - [Pokeball](builds/pokeball)
+
+   - Big-ish builds:
+      - [Daft Punk Helmet](builds/daft_punk_helmet)   
+      - [Automated French Press](builds/automated_french_press/)
+      - [Jurassic Park Goggles](builds/jurassic_goggles)
+      - [Smart Gingerbread House](builds/smart_gingerbread_house/)
+      
+   - Medium builds:
+      - [GPS Geolocation Selfie System](builds/gps_geolocation_selfie_system/)
+      - [Cookie Jar Security System with Lasers](builds/cookie_jar_security_lasers/)
+      - [On Air Sign](builds/on_air_sign_conductive_paint/)
+      - [Santa Claus Cookie Alarm](builds/santa_claus_cookie_alarm/)
+      - [SCR4P-E The Robot](builds/scr4pe_the_robot/)
+      
+   - Small / Quick builds:
       - [Stranger Things Wall](builds/stranger_things_wall_lights/)
       - [BB8 Cake](builds/bb8_cake/)
+      - [Pokeball](builds/pokeball)
       - [BB8 Pumpkin](builds/bb8_pumpkin/)
+      
+   - My FAVORITE build:
+      - [GPS Geolocation Selfie System](builds/gps_geolocation_selfie_system/)
    
 - [Tutorials](tutorials/)
 
@@ -28,11 +35,17 @@
       - [Part 3](tutorials/bigOnotation/part3)
    - [Linked Lists](tutorials/linkedLists/)
    - [Merge Sort](tutorials/mergeSort/)
+   
+## Socials
+
+Use #estefanniegg or #estefannieExplainsItAll so I can see your projects! 
+
+- Watch the builds and tutorials on my channel: https://www.youtube.com/c/estefanniegg
+- Follow me on Instagram for weekly live-streams and giveaways: https://www.instagram.com/estefanniegg
 
 ## To-Do
 
 - FAQ
-- Social/Resources
 
 ## License
 
